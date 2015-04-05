@@ -1,2 +1,2 @@
 # cinedayManager
-Gestion de sorties ciné Cineday
+Cine Day Group Manager
